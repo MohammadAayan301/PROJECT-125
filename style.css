@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(#b5179e 0%, #560bad 100%);
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.note{
+    font-size: 18px;
+    color:darkgreen;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
